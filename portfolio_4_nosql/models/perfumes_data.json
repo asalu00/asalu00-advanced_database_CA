@@ -1,0 +1,26 @@
+[
+  {
+    "perfume_name": "Amber Essence",
+    "brand": "ExpressMall",
+    "fragrance_type": "Unisex",
+    "bottle_size_ml": 50,
+    "price": 25000,
+    "stock_quantity": 1
+  },
+  {
+    "perfume_name": "Rose Elegance",
+    "brand": "ExpressMall",
+    "fragrance_type": "Women",
+    "bottle_size_ml": 100,
+    "price": 35000,
+    "stock_quantity": 20
+  },
+  {
+    "perfume_name": "Ocean Mist",
+    "brand": "ExpressMall",
+    "fragrance_type": "Men",
+    "bottle_size_ml": 75,
+    "price": 30000,
+    "stock_quantity": 15
+  }
+]

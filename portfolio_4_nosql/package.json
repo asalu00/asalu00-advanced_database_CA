@@ -1,0 +1,13 @@
+{
+  "name": "expressmall-nosql",
+  "version": "1.0.0",
+  "description": "ExpressMall Portfolio 4 - NoSQL and Advanced Data Models",
+  "main": "scripts/connect_mongodb.js",
+  "scripts": {
+    "connect": "node scripts/connect_mongodb.js",
+    "import": "node scripts/import_perfumes.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
