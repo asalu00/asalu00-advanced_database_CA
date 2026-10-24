@@ -1,0 +1,13 @@
+{
+  "name": "expressmall-distributed-cloud",
+  "version": "1.0.0",
+  "description": "Portfolio 5 - Distributed and Cloud Database Exercise for ExpressMall",
+  "main": "scripts/connect_cloud_database.js",
+  "scripts": {
+    "connect": "node scripts/connect_cloud_database.js",
+    "check": "node scripts/check_cloud_database.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
